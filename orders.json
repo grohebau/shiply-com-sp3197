@@ -1,0 +1,47 @@
+{
+  "SE481527982DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Sander, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Dirk Moser, Mülhauser Str. 25, 68229 Mannheim, Deutschland",
+    "price": "9.800,00 €",
+    "description": "Hersteller: Triumph<br>Typ: Scrambler 1200 XC<br>Fahrgestelnummer: SMTDAD78GDNAT2335<br>Erstzulassung: 08/2024<br>KM laut Vorbesitzer: 2.677 km<br>Leistung: 66 kW (90 PS)<br>Hubraum: 1.200 cm³<br>Farbe: Grün<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.<br>Lieferumfang: Tasche, Motorschutzbügel, sämtliches montiertes Zubehör sowie alle dazugehörigen übrigen Teile und Schrauben.",
+    "address": "Dirk Moser<br>Mülhauser Str. 25<br>68229 Mannheim<br>Deutschland<br>Telefon: +49 159 01889914",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "09.07.2026",
+    "deliveryDate": "15.07.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "Mülhauser Str. 25",
+      "postal_code": "68229",
+      "city": "Friedrichsfeld, Mannheim",
+      "country": "Deutschland",
+      "lat": "49.43737575279867",
+      "lng": "8.580383526062521"
+    }
+  }
+}
