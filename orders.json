@@ -28,10 +28,10 @@
     "orderDate": "09.07.2026",
     "deliveryDate": "15.07.2026",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Hauptstraße 11–15",
+      "postal_code": "21129",
+      "city": "Hamburg",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
