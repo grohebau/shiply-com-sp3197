@@ -1,6 +1,6 @@
 {
   "SE481527982DE": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Lukas Sander, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Dirk Moser, Mülhauser Str. 25, 68229 Mannheim, Deutschland",
@@ -28,9 +28,9 @@
     "orderDate": "09.07.2026",
     "deliveryDate": "15.07.2026",
     "pickup": {
-      "street": "Hauptstraße 11–15",
-      "postal_code": "21129",
-      "city": "Hamburg",
+      "street": "Am Lindener Hafen 26",
+      "postal_code": "30453",
+      "city": "Hannover",
       "country": "Deutschland",
       "lat": "",
       "lng": ""
